@@ -1,3 +1,16 @@
+Textutils is a simple React app that lets you analyze and modify your text easily.
+You can count words, change case, remove extra spaces, and more—all in a clean, user-friendly interface. 
+Perfect for quick text tweaks!
+
+features list:
+Word and character count
+Convert text to uppercase/lowercase
+Remove extra spaces
+Copy text to clipboard
+Clear all text instantly
+Real-time text preview
+Simple, user-friendly interface
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
